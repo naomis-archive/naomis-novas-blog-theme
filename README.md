@@ -4,7 +4,7 @@ A custom modification of Ghost's default Casper theme.
 
 ## Live Version
 
-This page is currently deployed. [View the live website](https://blog.nhcarrigan.com).
+The blog was cancelled on 2 September and this repository is archived.
 
 ## Feedback and Bugs
 
